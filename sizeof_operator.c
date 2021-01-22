@@ -1,3 +1,5 @@
+//Created by Dogukan Koc 22.01.2021
+
 #include <stdio.h>
 
 int main()
